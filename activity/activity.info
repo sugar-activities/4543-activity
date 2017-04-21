@@ -1,0 +1,9 @@
+[Activity]
+name = Sin diente 
+service_name = org.laptop.Sindiente
+class = activity.Sindiente
+icon = icono.sugar
+activity_version = 3 
+show_launcher = yes
+mime_types = application/x-sindiente
+licence = GPL
